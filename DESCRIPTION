@@ -1,0 +1,18 @@
+Package: SepGP
+Type: Package
+Title: Gaussian Processes with Separable Covariance Functions
+Version: 1.0.0
+Date: 2024-07-31
+Authors@R: c(person("Barry", "Adama", email = "adama.barry@ifpen.fr", role = c("aut", "cre")))
+Description: Implements Gaussian processes with separable covariance functions for regression and interpolation tasks. Supports various kernel functions including Gaussian, exponential, and Matern.
+Depends: R (>= 4.0.0), methods
+Encoding: UTF-8
+License: GPL-3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2024-12-20 17:42:53 UTC; barrya
+Author: Barry Adama [aut, cre]
+Maintainer: Barry Adama <adama.barry@ifpen.fr>
