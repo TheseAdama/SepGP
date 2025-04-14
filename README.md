@@ -1,4 +1,4 @@
-# 📦 SepGP
+# SepGP
 The **SepGP** package provides tools for the modeling and prediction of spatio-temporal functions defined as:
 
 $$
@@ -9,7 +9,7 @@ In this framework, the function $f(x, t)$ is observed at discrete time points $t
 
 This package is designed to efficiently handle and analyze spatio-temporal data where observations are collected over space and time.
 
-## 📥 Installation
+## Installation
 
 You can install the latest version of the package manually or directly from GitHub.
 
